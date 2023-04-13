@@ -11,7 +11,7 @@ Este script utiliza las siguientes librerías de Python (versión 3.7.9) :
 Para utilizar este script, debes seguir los siguientes pasos:
 
 1. Descargar los archivos instituciones_educativas.csv y Universidades.json que contienen los datos de muestra y de referencia, respectivamente, y colocarlos en el mismo directorio donde se encuentra el script.
-2. Ejecutar el script homologacion_universidades.py.
+2. Ejecutar el script main.py.
 3. El resultado de la homologación se guarda en un archivo homologacion.csv que se crea automáticamente en el mismo directorio donde se encuentra el script.
 
 # Métodos de homologación
