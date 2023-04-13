@@ -22,4 +22,4 @@ El script utiliza los siguientes métodos de homologación:
 2. Método 2: Validación entre los comentarios sin stop words y los nombres de las universidades en el archivo de referencia. Este método permite identificar las universidades a partir de las palabras contenidas en los comentarios del archivo de muestra.
 
 # Resultados
-El script genera un archivo homologacion.csv que contiene los comentarios del archivo de muestra, junto con la universidad homologada a partir de los métodos de homologación. Además, se exporta un archivo universidades.csv que contiene la lista de universidades homologadas y sus sinónimos (los diferentes nombres con los que aparecen en el archivo de muestra).
+El script genera un archivo universidades_homologadas.csv que contiene los comentarios del archivo de muestra junto con la universidad homologada a partir de los métodos de homologación. Además, se exporta un archivo sinonimo_universidades.json que contiene la lista de universidades homologadas y sus sinónimos.
